@@ -42,7 +42,4 @@ The dataset contains simulated ecommerce purchase records, including user demogr
 
 [MIT License](LICENSE)
 
-## Credits
-
-- [Sneha Kulkarni](https://www.kaggle.com/kulkarnisneha) for the original analysis and dataset inspiration.
 
