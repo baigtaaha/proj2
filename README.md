@@ -27,7 +27,7 @@ The dataset contains simulated ecommerce purchase records, including user demogr
 
 ## Tech Stack
 
-- Python 3.x
+- Python 3
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Jupyter Notebook
